@@ -1,0 +1,17 @@
+year,scenario_baseline,scenario_optimistic,scenario_pessimistic,scenario_notes
+2020,62167,62167,62167,Base year
+2021,66420,55950,66420,Scenario 1: Maintain APC 6.84%; Scenario 2: Achieve 90-95-95; Scenario 3: Delayed
+2022,70963,50355,70963,
+2023,75816,45320,75816,
+2024,81002,40788,81002,
+2025,86547,36709,86547,"2025 Target: Diagnosis rate 90%, Treatment rate 95%, Viral suppression rate 95%"
+2026,92477,33038,82233,Scenario 3 begins to decline
+2027,98821,29734,78121,
+2028,105608,26761,74215,
+2029,112870,24085,70504,
+2030,120640,21676,66979,"2030 Target: Diagnosis rate 95%, Treatment rate 95%, Viral suppression rate 95%"
+2035,NA,NA,NA,
+2040,NA,NA,NA,
+2045,NA,NA,NA,Scenario 2 projected to reach zero new infections
+2050,NA,NA,NA,Scenario 1 projected to reach zero new infections
+2055,NA,NA,NA,Scenario 3 projected to reach zero new infections
