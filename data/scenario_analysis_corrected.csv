@@ -1,0 +1,12 @@
+year,constant_growth,moderate_acceleration,intensified_intervention,notes
+2020,62167,62167,62167,Base year
+2021,66419,66419,54707,
+2022,70962,70962,48142,
+2023,75816,75816,42365,
+2024,81002,81002,37281,
+2025,86542,86542,32808,"2025 Target: Diagnosis rate 90%, Treatment rate 95%, Viral suppression rate 95%"
+2026,92462,82215,28871,Scenario 2 begins 5% decline; Scenario 3: 12% decline
+2027,98786,78105,25406,
+2028,105543,74199,22357,
+2029,112763,70489,19675,
+2030,120475,66965,17314,"2030 Target: Diagnosis rate 95%, Treatment rate 95%, Viral suppression rate 95%"
